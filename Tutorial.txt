@@ -1,0 +1,11 @@
+install package.json with npm install
+
+create a solidity file to write smart contract
+
+compile project( creates a json file for smart contract)
+
+connect to local blockchain with truffle config file
+
+write a migrations file to deploy smart contracts to blockchain
+
+truffle migrate
